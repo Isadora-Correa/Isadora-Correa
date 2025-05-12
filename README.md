@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Isadora Correa de Carvalho, tenho 18 anos e sou natural de Sorocaba. Concluí o ensino médio na ETEC Fernando Prestes, com o curso técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC Sorocaba. *Sou apaixonada por tecnologia* e gosto muito de aprender e ensinar, também amo o marketing, nas horas vagas trabalho como de *social media*, esse é o meu perfil do instagram da minha empresas "[Agência Luminis | Marketing Digital]((https://www.instagram.com/agencia.luminis/))".
+Me chamo Isadora Correa de Carvalho, tenho 18 anos e sou natural de Sorocaba. Concluí o ensino médio na ETEC Fernando Prestes, com o curso técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC Sorocaba. *Sou apaixonada por tecnologia* e gosto muito de aprender e ensinar, também amo o marketing, nas horas vagas trabalho como de *social media*, esse é o meu perfil do instagram da minha empresas "[Agência Luminis | Marketing Digital]([(https://www.instagram.com/agencia.luminis/)](https://www.instagram.com/agencia.luminis/))".
 
 ### 🤖 Linguagens e Tecnologias
 
