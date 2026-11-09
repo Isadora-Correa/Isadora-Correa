@@ -1,66 +1,37 @@
-<h1 align="center">Oi, eu sou a Isadora 👋</h1>
+# Isadora Correa
 
-<p align="center">
-  <b>UX Designer & Social Media</b> · Sorocaba, SP
-</p>
+**UX Designer & Social Media** · Sorocaba, SP
 
-<p align="center">
-  <img src="https://img.shields.io/badge/UX%20Design-FF6F91?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Social%20Media-9B5DE5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ADS%20·%20FATEC-00BBF9?style=for-the-badge" />
-</p>
+Designer de experiência do usuário com base em desenvolvimento de sistemas. Crio interfaces claras e centradas nas pessoas, da pesquisa ao protótipo, e cuido de estratégia e conteúdo digital como social media.
+
+[LinkedIn](https://www.linkedin.com/in/isadoracorrea) · [Instagram](https://www.instagram.com/isadora_socialmedia) · [Agência Luminis](https://www.instagram.com/agencia.luminis/)
 
 ---
 
-### 💜 Sobre mim
+### O que eu faço
 
-Tenho 20 anos e trabalho com **UX Design**, criando interfaces pensadas em quem vai usar, do primeiro rascunho ao protótipo final. Também atuo como **social media**, cuidando de conteúdo e estratégia digital na minha agência, a [**Agência Luminis | Marketing Digital**](https://www.instagram.com/agencia.luminis/).
+- **UX/UI Design** — pesquisa com usuários, arquitetura de informação, wireframes, protótipos e testes de usabilidade
+- **Social Media** — planejamento de conteúdo, criação de peças, edição de vídeo e campanhas na [Agência Luminis](https://www.instagram.com/agencia.luminis/)
+- **Front-end** — transformo o design em interface funcional quando o projeto pede
 
-Sou técnica em Desenvolvimento de Sistemas pela **ETEC Fernando Prestes** e curso **Análise e Desenvolvimento de Sistemas** na **FATEC Sorocaba**. Essa base em código me ajuda a desenhar soluções que funcionam de verdade e a conversar bem com quem desenvolve.
+### Formação
 
-- 🎨 Hoje: UX/UI Design e Social Media
-- 🧠 Gosto de: pesquisa com usuários, prototipação, design systems e conteúdo criativo
-- 📚 Sempre aprendendo, e adoro ensinar o que aprendo
+| Curso | Instituição | Status |
+| --- | --- | --- |
+| Análise e Desenvolvimento de Sistemas | FATEC Sorocaba | Cursando |
+| Técnico em Desenvolvimento de Sistemas | ETEC Fernando Prestes | Concluído |
 
----
+### Ferramentas e tecnologias
 
-### 🎨 Design & UX
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai" />
-</p>
-
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-FFD02F?style=flat-square&logo=miro&logoColor=black)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-
-### 📱 Social Media & Vídeo
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pr" />
-</p>
-
-![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=capcut&logoColor=white)
-![Meta Ads](https://img.shields.io/badge/Meta%20Ads-0467DF?style=flat-square&logo=meta&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)
-
-### 💻 Desenvolvimento
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs,php,laravel,py,java,cs,cpp,mysql,firebase,git,github,vercel,aws,godot" />
-</p>
+| Design & UX | Social Media & Vídeo | Desenvolvimento |
+| --- | --- | --- |
+| Figma | Premiere Pro | HTML, CSS, JavaScript |
+| Adobe XD | CapCut | React, Bootstrap |
+| Framer | Meta Ads | Node.js, PHP, Laravel |
+| Photoshop, Illustrator | Canva | Python, Java, C#, C++ |
+| Miro, Notion | Instagram | MySQL, Firebase |
+| | | Git, GitHub, Vercel, AWS |
 
 ---
 
-### 📊 Estatísticas
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=Isadora-Correa&theme=tokyonight&hide_border=true&locale=pt_BR" />
-</p>
-
----
-
-### 📫 Onde me encontrar
-
-[![Instagram Luminis](https://img.shields.io/badge/@agencia.luminis-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/agencia.luminis/)
+<img src="https://streak-stats.demolab.com?user=Isadora-Correa&theme=tokyonight&hide_border=true&locale=pt_BR" height="150" />
