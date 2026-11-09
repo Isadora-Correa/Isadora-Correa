@@ -1,191 +1,66 @@
-# 👩🏻‍💻 Isadora Correa
+<h1 align="center">Oi, eu sou a Isadora 👋</h1>
 
-**`Desenvolvedora FullStack`**
+<p align="center">
+  <b>UX Designer & Social Media</b> · Sorocaba, SP
+</p>
 
-Me chamo Isadora Correa de Carvalho, tenho 18 anos e sou natural de Sorocaba. Concluí o ensino médio na ETEC Fernando Prestes, com o curso técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC Sorocaba. *Sou apaixonada por tecnologia* e gosto muito de aprender e ensinar, também amo o marketing, nas horas vagas trabalho como de *social media*, esse é o meu perfil do instagram da minha empresas "[Agência Luminis | Marketing Digital](https://www.instagram.com/agencia.luminis/)".
+<p align="center">
+  <img src="https://img.shields.io/badge/UX%20Design-FF6F91?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Social%20Media-9B5DE5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ADS%20·%20FATEC-00BBF9?style=for-the-badge" />
+</p>
 
-### 🤖 Linguagens e Tecnologias
+---
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="20px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
+### 💜 Sobre mim
 
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="20px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="20px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="20px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="20px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="20px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="20px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Canva" 
-    title="Canva"
-    width="20px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Figma" 
-    title="Figma"
-    width="20px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"     
-/>
-<img 
-    align="left" 
-    alt="Firebase" 
-    title="Firebase"
-    width="20px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"              
-/>
-<img 
-    align="left" 
-    alt="Godot" 
-    title="Godot"
-    width="20px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg"     
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="20px" 
-    style="padding-right: 10px;" 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"     
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="20px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"      
-/>
-<img 
-    align="left" 
-    alt="Notion" 
-    title="Notion"
-    width="20px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"    
-/>
-<img 
-    align="left" 
-    alt="PS" 
-    title="PS"
-    width="20px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"    
-/>
-<img 
-    align="left" 
-    alt="PS" 
-    title="PS"
-    width="20px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"    
-/>
-<img 
-    align="left" 
-    alt="c#" 
-    title="c#"
-    width="20px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"    
-/>
-<img 
-    align="left" 
-    alt="c++" 
-    title="c++"
-    width="20px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"    
-/>
-<img 
-    align="left" 
-    alt="illustrator" 
-    title="illustrator"
-    width="20px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg"    
-/>
-<img 
-    align="left" 
-    alt="laravel" 
-    title="laravel"
-    width="20px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
-/>
-<br/>
-<br/>
+Tenho 20 anos e trabalho com **UX Design**, criando interfaces pensadas em quem vai usar, do primeiro rascunho ao protótipo final. Também atuo como **social media**, cuidando de conteúdo e estratégia digital na minha agência, a [**Agência Luminis | Marketing Digital**](https://www.instagram.com/agencia.luminis/).
+
+Sou técnica em Desenvolvimento de Sistemas pela **ETEC Fernando Prestes** e curso **Análise e Desenvolvimento de Sistemas** na **FATEC Sorocaba**. Essa base em código me ajuda a desenhar soluções que funcionam de verdade e a conversar bem com quem desenvolve.
+
+- 🎨 Hoje: UX/UI Design e Social Media
+- 🧠 Gosto de: pesquisa com usuários, prototipação, design systems e conteúdo criativo
+- 📚 Sempre aprendendo, e adoro ensinar o que aprendo
+
+---
+
+### 🎨 Design & UX
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai" />
+</p>
+
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-FFD02F?style=flat-square&logo=miro&logoColor=black)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+
+### 📱 Social Media & Vídeo
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pr" />
+</p>
+
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=capcut&logoColor=white)
+![Meta Ads](https://img.shields.io/badge/Meta%20Ads-0467DF?style=flat-square&logo=meta&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)
+
+### 💻 Desenvolvimento
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs,php,laravel,py,java,cs,cpp,mysql,firebase,git,github,vercel,aws,godot" />
+</p>
+
+---
 
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="170" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Isadora-Correa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="170" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isadora-Correa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+  <img src="https://streak-stats.demolab.com?user=Isadora-Correa&theme=tokyonight&hide_border=true&locale=pt_BR" />
 </p>
+
+---
+
+### 📫 Onde me encontrar
+
+[![Instagram Luminis](https://img.shields.io/badge/@agencia.luminis-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/agencia.luminis/)
